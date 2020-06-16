@@ -1,0 +1,1 @@
+C:\LordKrishna\GitHub\learning-nodejs-2020\sample-js\day1>**node .\src\index.js**
